@@ -1,0 +1,46 @@
+CPI-U:
+https://data.bls.gov/pdq/SurveyOutputServlet
+
+Personal Consumption Expenditures (PCE):
+https://fred.stlouisfed.org/series/PCE
+
+Real GDP:
+https://fred.stlouisfed.org/series/GDPC1
+
+Median Income 1967 - 2021:
+https://www.census.gov/library/publications/2022/demo/p60-276.html
+
+Median Income by State and Family Size:
+https://www.justice.gov/ust/eo/bapcpa/20220401/bci_data/median_income_table.htm
+
+Cost of Living Data:
+https://meric.mo.gov/data/cost-living-data-series
+
+Average undergraduate tuition (1964 - 2021):
+https://nces.ed.gov/programs/digest/d21/tables/dt21_330.10.asp?current=yes
+
+Money Supply:
+https://fred.stlouisfed.org/series/BOGMBASE
+https://fred.stlouisfed.org/series/M1SL
+https://fred.stlouisfed.org/series/M2SL
+
+Minimum Wage:
+https://www.kaggle.com/datasets/lislejoem/us-minimum-wage-by-state-from-1968-to-2017?resource=download
+
+Total Asset Percentiles:
+https://fredblog.stlouisfed.org/2019/10/who-holds-what-wealth/?utm_source=series_page&utm_medium=related_content&utm_term=related_resources&utm_campaign=fredblog
+
+Minimum Wealth of Top 0.1 Percentile:
+https://alfred.stlouisfed.org/series?seid=WFRBLTP1311&utm_source=series_page&utm_medium=related_content&utm_term=related_resources&utm_campaign=alfred
+
+Labor Force Statistics:
+https://data.bls.gov/pdq/SurveyOutputServlet
+
+Recession:
+https://en.wikipedia.org/wiki/List_of_recessions_in_the_United_States
+
+Federal Funds Effective Rate:
+https://fred.stlouisfed.org/series/FEDFUNDS
+
+Image Icons:
+https://icons8.com/
